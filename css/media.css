@@ -256,7 +256,8 @@
     }
   }
   #main-right {
-    width: 720px;
+    max-width: 720px;
+    width: 100%;
   }
   #main-left {
     .main-left {
@@ -341,7 +342,8 @@
     }
   }
   #main-right {
-    width: 545px;
+    max-width: 545px;
+    width: 100%;
   }
   #type-top {
     .type-top {
