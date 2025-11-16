@@ -112,7 +112,8 @@
   #main-left {
     .main-left {
       p {
-        width: 620px;
+        max-width: 620px;
+        width: 100%;
       }
     }
   }
@@ -189,7 +190,8 @@
   #main-left {
     .main-left {
       p {
-        width: 620px;
+        max-width: 620px;
+        width: 100%;
       }
     }
   }
@@ -268,7 +270,8 @@
   #main-left {
     .main-left {
       p {
-        width: 480px;
+        max-width: 480px;
+        width: 100%;
       }
     }
   }
@@ -345,7 +348,8 @@
   #main-left {
     .main-left {
       p {
-        width: 420px;
+        max-width: 420px;
+        width: 100%;
       }
     }
   }
