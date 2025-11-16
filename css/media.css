@@ -136,7 +136,7 @@
     .header {
       display: flex;
 
-      gap: 50px;
+      gap: 20px;
       text-align: center;
       .img-header {
         ion-icon {
@@ -256,7 +256,7 @@
     }
   }
   #main-right {
-    width: 760px;
+    width: 720px;
   }
   #main-left {
     .main-left {
@@ -341,7 +341,7 @@
     }
   }
   #main-right {
-    width: 610px;
+    width: 545px;
   }
   #type-top {
     .type-top {
