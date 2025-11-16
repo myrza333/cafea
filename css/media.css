@@ -311,6 +311,7 @@
       .nav-header {
         ion-icon {
           display: block;
+          font-size: 40px;
         }
       }
     }
@@ -319,7 +320,9 @@
   #main {
     .main {
       .main1 {
-        text-align: center;
+        h1 {
+          font-size: 40px;
+        }
         .m-g {
           display: block;
           max-width: 450px;
